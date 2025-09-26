@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "player-image": "https://example.com/images/virat-kohli.jpg",
+        "player-name": "Virat Kohli",
+        "player-country": "India",
+        "playing-role": "Batsman",
+        "batting-style": "Right-hand bat",
+        "bowling-style": "–",
+        "rating": 9.8,
+        "price": 9000000
+    },
+    {
+        "id": 2,
+        "player-image": "https://example.com/images/ms-dhoni.jpg",
+        "player-name": "MS Dhoni",
+        "player-country": "India",
+        "playing-role": "Wicketkeeper Batsman",
+        "batting-style": "Right-hand bat",
+        "bowling-style": "–",
+        "rating": 9.5,
+        "price": 8500000
+    },
+    {
+        "id": 3,
+        "player-image": "https://example.com/images/ab-de-villiers.jpg",
+        "player-name": "AB de Villiers",
+        "player-country": "South Africa",
+        "playing-role": "Batsman",
+        "batting-style": "Right-hand bat",
+        "bowling-style": "Right-arm medium",
+        "rating": 9.4,
+        "price": 9500000
+    },
+    {
+        "id": 4,
+        "player-image": "https://example.com/images/andre-russell.jpg",
+        "player-name": "Andre Russell",
+        "player-country": "West Indies",
+        "playing-role": "All-Rounder",
+        "batting-style": "Right-hand bat",
+        "bowling-style": "Right-arm fast",
+        "rating": 9.2,
+        "price": 8000000
+    },
+    {
+        "id": 5,
+        "player-image": "https://example.com/images/jasprit-bumrah.jpg",
+        "player-name": "Jasprit Bumrah",
+        "player-country": "India",
+        "playing-role": "Bowler",
+        "batting-style": "Right-hand bat",
+        "bowling-style": "Right-arm fast",
+        "rating": 9.6,
+        "price": 8700000
+    },
+    {
+        "id": 6,
+        "player-image": "https://example.com/images/rashid-khan.jpg",
+        "player-name": "Rashid Khan",
+        "player-country": "Afghanistan",
+        "playing-role": "Bowler",
+        "batting-style": "Right-hand bat",
+        "bowling-style": "Right-arm leg spin",
+        "rating": 9.3,
+        "price": 7600000
+    },
+    {
+        "id": 7,
+        "player-image": "https://example.com/images/ben-stokes.jpg",
+        "player-name": "Ben Stokes",
+        "player-country": "England",
+        "playing-role": "All-Rounder",
+        "batting-style": "Left-hand bat",
+        "bowling-style": "Right-arm fast-medium",
+        "rating": 9.1,
+        "price": 9800000
+    },
+    {
+        "id": 8,
+        "player-image": "https://example.com/images/suryakumar-yadav.jpg",
+        "player-name": "Suryakumar Yadav",
+        "player-country": "India",
+        "playing-role": "Batsman",
+        "batting-style": "Right-hand bat",
+        "bowling-style": "–",
+        "rating": 9.0,
+        "price": 6700000
+    },
+    {
+        "id": 9,
+        "player-image": "https://example.com/images/david-warner.jpg",
+        "player-name": "David Warner",
+        "player-country": "Australia",
+        "playing-role": "Batsman",
+        "batting-style": "Left-hand bat",
+        "bowling-style": "Right-arm medium",
+        "rating": 8.9,
+        "price": 7200000
+    },
+    {
+        "id": 10,
+        "player-image": "https://example.com/images/rahul-chahar.jpg",
+        "player-name": "Rahul Chahar",
+        "player-country": "India",
+        "playing-role": "Bowler",
+        "batting-style": "Right-hand bat",
+        "bowling-style": "Right-arm leg spin",
+        "rating": 8.7,
+        "price": 5500000
+    },
+    {
+        "id": 11,
+        "player-image": "https://example.com/images/faf-du-plessis.jpg",
+        "player-name": "Faf du Plessis",
+        "player-country": "South Africa",
+        "playing-role": "Batsman",
+        "batting-style": "Right-hand bat",
+        "bowling-style": "Right-arm medium",
+        "rating": 8.8,
+        "price": 6000000
+    },
+    {
+        "id": 12,
+        "player-image": "https://example.com/images/shreyas-iyer.jpg",
+        "player-name": "Shreyas Iyer",
+        "player-country": "India",
+        "playing-role": "Batsman",
+        "batting-style": "Right-hand bat",
+        "bowling-style": "–",
+        "rating": 8.6,
+        "price": 6800000
+    }
+]
